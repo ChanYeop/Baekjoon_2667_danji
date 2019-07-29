@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\cy960\source\repos\danzi\danzi\main.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  danzi.vcxproj -> C:\Users\cy960\source\repos\danzi\Debug\danzi.exe
